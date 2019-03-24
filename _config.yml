@@ -7,10 +7,16 @@ title: 学习笔记
 subtitle: 不要太相信自己的记忆
 description:
 author: GitHub pages
-language: zh-CN
+language: zh-Hans
 timezone: Asia/Shanghai
 
-
+douban:
+  user: 172594837
+  builtin: false
+  book:
+    title: '我的豆瓣读书'
+    quote: '我的豆瓣读书'
+  timeout: 10000 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -74,7 +80,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
